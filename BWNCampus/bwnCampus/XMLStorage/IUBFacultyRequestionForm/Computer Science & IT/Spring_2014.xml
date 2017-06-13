@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IUBFacultyRequestionForm>
+  <Teacher Name="Muhammad Suleman" Designation="Lecturer" Department="Computer Science &amp; IT" Status="">
+    <Course TitleOfCourse="System Programming" CourseCode="CSIT-21202" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Data Communication &amp; Networks" CourseCode="CSIT-21203" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Computer Graphics" CourseCode="CSIT-21205" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+  </Teacher>
+  <Teacher Name="Ahmad Ali" Designation="Lecturer" Department="Computer Science &amp; IT" Status="Visiting">
+    <Course TitleOfCourse="Data Structures &amp; Algorithms" CourseCode="CSIT-21201" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Distributed Database" CourseCode="CSIT-21204" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Object Oriented Data Modeling" CourseCode="CSIT-21206" CourseCreditHrs="3(3+0)" CourseType="Visiting" SemesterNo="2" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Web Programming" CourseCode="CSIT-21401" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="4" SemesterName="MCS (Morning)" Year="2014" />
+    <Course TitleOfCourse="Software Engineering - II" CourseCode="CSIT-21402" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="4" SemesterName="MCS (Morning)" Year="2014" />
+  </Teacher>
+</IUBFacultyRequestionForm>

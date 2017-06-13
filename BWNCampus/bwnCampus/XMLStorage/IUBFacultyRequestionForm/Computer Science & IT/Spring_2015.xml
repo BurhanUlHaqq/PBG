@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IUBFacultyRequestionForm>
+  <Teacher Name="Muhammad Suleman" Designation="Lecturer" Department="Computer Science &amp; IT" Status="">
+    <Course TitleOfCourse="Data Structures &amp; Algorithms" CourseCode="CSIT-21201" CourseCreditHrs="3(2+1)" CourseType="Work Load" SemesterNo="2" SemesterName="MCS (Morning)" Year="2015" />
+    <Course TitleOfCourse="Data Communication &amp; Networks" CourseCode="CSIT-21203" CourseCreditHrs="3(2+1)" CourseType="Work Load" SemesterNo="2" SemesterName="MCS (Morning)" Year="2015" />
+    <Course TitleOfCourse="Computer Graphics" CourseCode="CSIT-21205" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2015" />
+    <Course TitleOfCourse="Distributed Database" CourseCode="CSIT-21204" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2015" />
+  </Teacher>
+  <Teacher Name="Naila Kanwal" Designation="Lecturer" Department="Computer Science &amp; IT" Status="Visiting">
+    <Course TitleOfCourse="System Programming" CourseCode="CSIT-21202" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="2" SemesterName="MCS (Morning)" Year="2015" />
+    <Course TitleOfCourse="Software Engineering - II" CourseCode="CSIT-21402" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="4" SemesterName="MCS (Morning)" Year="2015" />
+  </Teacher>
+</IUBFacultyRequestionForm>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IUBFacultyRequestionForm>
+  <Teacher Name="Muhammad Suleman" Designation="Lecturer" Department="Computer Science &amp; IT" Status="">
+    <Course TitleOfCourse="Computer Graphics" CourseCode="CSIT-21205" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" Year="2013" />
+    <Course TitleOfCourse="Web Programming" CourseCode="CSIT-21401" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="4" SemesterName="MCS (Morning)" Year="2013" />
+    <Course TitleOfCourse="Elective - I " CourseCode="-----------------" CourseCreditHrs="3" CourseType="Part Time" SemesterNo="4" SemesterName="MCS (Morning)" Year="2013" />
+  </Teacher>
+</IUBFacultyRequestionForm>

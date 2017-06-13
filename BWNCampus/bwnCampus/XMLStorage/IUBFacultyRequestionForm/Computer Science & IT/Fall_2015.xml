@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IUBFacultyRequestionForm>
+  <Teacher Name="Ahmad Ali" Designation="Lecturer" Department="Computer Science &amp; IT" Status="Visiting">
+    <Course TitleOfCourse="Digital Logic Design &amp; Computer Architecture" CourseCode="CSIT-21101" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="1" SemesterName="MCS (Morning)" Year="2015" />
+    <Course TitleOfCourse="Object Oriented Programming Using Java" CourseCode="CSIT-21302" CourseCreditHrs="3(2+1)" CourseType="Visiting" SemesterNo="3" SemesterName="MCS (Morning)" Year="2015" />
+  </Teacher>
+</IUBFacultyRequestionForm>

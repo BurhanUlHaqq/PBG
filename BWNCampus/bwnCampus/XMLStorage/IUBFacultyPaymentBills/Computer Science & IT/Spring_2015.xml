@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IUBFacultyPaymentBills IncomeTaxRate="7">
+  <Teacher Name="Muhammad Suleman" Designation="Lecturer" Department="Computer Science &amp; IT" Status="" HBLBankAcountNo="1234567890" RatePerLecture="1240">
+    <Semester SemesterName="Spring" Year="2015">
+      <Course TitleOfCourse="Computer Graphics" CourseCode="CSIT-21205" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" />
+      <Course TitleOfCourse="Distributed Database" CourseCode="CSIT-21204" CourseCreditHrs="3(2+1)" CourseType="Part Time" SemesterNo="2" SemesterName="MCS (Morning)" />
+    </Semester>
+  </Teacher>
+</IUBFacultyPaymentBills>
